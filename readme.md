@@ -19,5 +19,4 @@ To create a sustainable and transparent funding mechanism for educational schola
 - **Secure and Audited:** Smart contracts are rigorously audited to ensure the safety of staked funds.
 - **Educational Equity:** Promote access to quality education for underprivileged communities.
 
----
-Contribute to the project and make a difference today!
+
