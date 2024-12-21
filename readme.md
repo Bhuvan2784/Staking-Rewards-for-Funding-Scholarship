@@ -5,6 +5,8 @@ The "Staking Rewards for Funding Scholarship" project is an innovative blockchai
 
 ## Contract Address
 0xD95177ed39110502bba4Bf795BB2b8b48E744FbC
+![image](https://github.com/user-attachments/assets/6bee155f-71a8-49ee-8d1a-f7692f7878e9)
+
 
 ## Project Vision
 To create a sustainable and transparent funding mechanism for educational scholarships by leveraging blockchain technology and decentralized finance, empowering communities to invest in the future of education.
